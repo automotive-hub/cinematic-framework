@@ -16,6 +16,9 @@
 - Lens ISO (sensitivity to light) support to add deep in to object shots?
 - ...
 
+Hahaha someone is making an video :)))
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dgRSl7JNohk/0.jpg)](https://www.youtube.com/watch?v=dgRSl7JNohk)
 
 ---
 #### ```Opportunity-adventures```
