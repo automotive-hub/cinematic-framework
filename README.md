@@ -3,6 +3,9 @@
 
 ![cinematic camera shots suggestion](./docs/camera_shot.jpg)
 
+Sister Player :>
+https://player.sister.tv/?project_id=1850_021816&vin=WP0AA2A91KS103879
+
 ### ```Why does it matter/ any solutions?```
 **Before begin** make sure we could answer the bellow pseudo-question about cinematic:
 
